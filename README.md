@@ -1,4 +1,6 @@
-# TestRepo2
+### TestRepo2
+
+[Second File](https://github.com/vmsmith/TestRepo2/blob/master/SecondFile.md)
 
 Testing RStudio and GitHub
 
